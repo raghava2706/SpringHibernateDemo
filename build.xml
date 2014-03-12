@@ -1,0 +1,9 @@
+<project>
+        <target name="run">
+            <echo>
+                This is a longer message stretching over
+                three lines; the first line is a blank
+            </echo>
+        </target>
+    
+</project>
